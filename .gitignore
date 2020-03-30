@@ -1,0 +1,11 @@
+# IDEs
+.vscode/
+.idea/
+
+# python
+venv/
+auth/
+.env
+
+# sample files
+res.json
